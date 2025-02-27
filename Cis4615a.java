@@ -3,12 +3,12 @@
  *  Execution:    java Cis4615a
  *
  *  Prints 
- *    "Hello, World - from the class of CIS4615 - Fall 2022 -UCF _YoUR NAME HERE_".
+ *    "Hello, World - from the class of CIS4615 - Spring 2025 -UCF Peter Morris".
  *  By tradition, this is everyone's first program.
  *
  * Revision History:
  *   % java Cis4615a
- *  Hello, World - from the class of CIS4615 - Fall 2022 - UCF
+ *  Hello, World - from the class of CIS4615 - Spring 2025 - UCF
  *  %
  *
  ******************************************************************************/
